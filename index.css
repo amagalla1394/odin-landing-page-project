@@ -4,6 +4,30 @@
 p, a, h1, h3 {
     color: #ffffff;
 }
-.page-quote{
-    color: #ffffff;
+.page-quote, em, b{
+    background-color: #E5E7EB;
+    color: #1F2937;
 }
+
+/*
+    COLORS & FONTS:
+----------
+    hero & footer (dark background color)
+        #1f2937
+    hero main text ("this website is awesome..")
+        48px extra-bold #f8faf8
+    hero secondary text, header link text
+        18px #e5e7eb
+    header logo text
+        24px #f9faf8
+---------
+    button color, call to action background color
+        #3882f6
+    information header text
+        36px extra-bold #1f2937
+---------
+    quote section background color
+        #e5e7eb
+    quote text
+        36px light italic #1f2937    
+*/
