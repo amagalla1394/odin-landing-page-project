@@ -9,7 +9,7 @@ a:link{
     font-size: 48px;
     font-weight: 700;color: #f9faf8;
 }
-#hero-secondary-text{
+#hero-secondary-text, .img-tile-desc{
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -17,12 +17,12 @@ button{
     color: #ffffff;
     background-color: #3882f6;
 }
-
-
-
-bottom-page-signup-banner{
-    background-color: #ffffff;
+img{
+    border-radius: 5%;
 }
+
+
+
 
 /*
 .page-quote, em, b{
